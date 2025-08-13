@@ -84,7 +84,7 @@
     top: 150%;
     padding: 8px;
     border-radius: 2px;
-    /* display: none; */
+    display: none;
 }
 
 .header__qr::before{
@@ -95,7 +95,6 @@
     display: block;
     top: -18;
     left: 0;
-    color: black;
 }
 
 .header__qr-img{
